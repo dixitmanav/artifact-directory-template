@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<Identifying Activity Centers in the San Diego Region>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<In this study, a exploration of the San Diego region's economic dynamics through the lens of 'Activity Centers,' leveraging clustering techniques in geo-spatial analysis. San Diego contains a vibrant population and serves as a residency for people living and working. Traditional employment centers, focused on concentrated job opportunities, often lack a nuanced regional understanding. In response, 'Activity Centers' are introduced, rooted in San Diego businesses, offering essential employment details and generating a holistic comprehension of the region. Clustered geo-spatial analysis identifies different activity centers categorized by dominant business activity types. These centers serve as an important tools for summarizing statistics and generating data visualizations, showcasing the potential of clustering techniques to augment traditional methods for comprehensive regional insights. The study provides valuable insights for policy makers and planners navigating patterns between business activities and urban development.>
